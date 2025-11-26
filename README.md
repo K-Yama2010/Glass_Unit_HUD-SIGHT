@@ -13,7 +13,7 @@ Head-up display for electric guns<br>
 　・モデルセレクト（defoult,1～3)<br>
 　  ・モデルネーム<br>
   　・HUD セッティング<br>
-  　・シューティングレンジキャリブレーション<br>
+　　・シューティングレンジキャリブレーション<br>
   　・データリセット<br>
  　 ・HUDに戻る<br>
 <br>
