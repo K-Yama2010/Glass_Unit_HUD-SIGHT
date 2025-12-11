@@ -28,7 +28,7 @@ Head-up display for electric guns<br>
   コツとしては左傾45度の着弾点をプロットしたあとは反対側の右傾45度もプロットすることです。<br>
   片方だけのキャリブレーションでは銃身の曲がりなのか、ホップや重力の影響なのかをマイコンが判断できません。バランスよく対になるようキャリブレーションしていってください。<br>
   
-![実射キャリブレーション](https://github.com/K-Yama2010/Glass_Unit_HUD-SIGHT/blob/main/images/2.jpg)
+![実射キャリブレーション](https://github.com/K-Yama2010/Glass_Unit_HUD-SIGHT/blob/main/images/4.jpg)
 <br>
 <br>
 <br>
