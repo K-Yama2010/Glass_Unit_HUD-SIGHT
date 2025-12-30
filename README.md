@@ -1,4 +1,4 @@
-Head-up display for gus & electric guns
+Head-Up Display for Gas and Electric Airsoft Guns
 
 ![タイトルロゴ](https://github.com/K-Yama2010/Glass_Unit_HUD-SIGHT/blob/main/images/1.jpg)
 
