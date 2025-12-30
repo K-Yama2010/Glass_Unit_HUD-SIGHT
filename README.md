@@ -51,6 +51,7 @@ Head-up display for electric guns<br>
   <br>
   また、レンズの手入れには水を含んだ柔らかい布かティッシュで行い、その後に乾拭きしてください。薬品や洗浄剤の使用はお控えください。<br>
   <br>
+[![Demo Video](https://img.youtube.com/vi/BgiEXVQi1ko/0.jpg)](https://www.youtube.com/watch?v=BgiEXVQi1ko)
 
 <br>
 
