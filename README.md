@@ -54,6 +54,7 @@ Head-up display for electric guns
 複数の銃で相性を試してみてください。
 
 ### 設定サンプル動画
+（画像クリックでyoutubeでご覧になれます）
 
 [![Demo Video](https://img.youtube.com/vi/BgiEXVQi1ko/hqdefault.jpg)](https://www.youtube.com/watch?v=BgiEXVQi1ko)
 
