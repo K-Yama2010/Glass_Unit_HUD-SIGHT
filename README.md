@@ -48,7 +48,7 @@ Head-up display for electric guns
 それぞれ個別にモデルネーム、HUD設定、実射キャリブレーションを登録できます。  
 複数の銃で相性を試してみてください。
 
-### デモ動画
+### 設定サンプル動画
 
 [![Demo Video](https://img.youtube.com/vi/BgiEXVQi1ko/hqdefault.jpg)](https://www.youtube.com/watch?v=BgiEXVQi1ko)
 
