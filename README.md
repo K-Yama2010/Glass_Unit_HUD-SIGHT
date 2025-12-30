@@ -9,6 +9,11 @@ Head-up display for electric guns
 # 各設定方法
 
 電源ON後、通常画面からエンターキー（⏎）を押すとメインメニューに切り替わります。  
+
+![エンターキー](https://github.com/K-Yama2010/Glass_Unit_HUD-SIGHT/blob/main/images/3.jpg)
+
+<br>
+<br>
 メインメニューには以下の6項目があります。
 
 - モデルセレクト（default, 1～3）
