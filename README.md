@@ -44,6 +44,8 @@ Head-up display for electric guns<br>
     モデル登録数は３つです。それぞれ個別にモデルネームやHUD設定、実射キャリブレーションを登録できますのでいろんな銃で相性を確かめてみてください。<br>
   <br>
    [![Demo Video](https://img.youtube.com/vi/BgiEXVQi1ko/0.jpg)](https://www.youtube.com/watch?v=BgiEXVQi1ko)　<br>
+   [![Demo Video](https://img.youtube.com/vi/BgiEXVQi1ko/hqdefault.jpg)](https://www.youtube.com/watch?v=BgiEXVQi1ko)
+
    <br>
   本製品は防水仕様（IPX4～5相当）で、フィールドプレイ中の大雨や泥水に対しても壊れたりすることはありませんが、プレイ後は電池ボックスを開ける等乾燥を心がけてください。<br>
   <br>
