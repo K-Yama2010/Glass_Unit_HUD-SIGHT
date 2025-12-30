@@ -1,4 +1,4 @@
-Head-up display for electric guns
+Head-up display for gus & electric guns
 
 ![タイトルロゴ](https://github.com/K-Yama2010/Glass_Unit_HUD-SIGHT/blob/main/images/1.jpg)
 
