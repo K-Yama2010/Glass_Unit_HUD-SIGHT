@@ -14,7 +14,7 @@ Head-Up Display for Gas and Electric Airsoft Guns
 
 <br>
 <br>
-メインメニューには以下の6項目があります。
+メインセッティング（設定項目）には以下の6項目があります。
 
 - モデルセレクト（default, 1～3）
 - モデルネーム編集
